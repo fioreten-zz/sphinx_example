@@ -1,5 +1,5 @@
-Auto Generate Code Documentation
-================================
-.. automodule::hw1
+Auto Generated Code Documentation
+=================================
+.. automodule:: hw1
 	:members:
 	:undoc-members:
