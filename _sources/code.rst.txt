@@ -1,5 +1,9 @@
 Auto Generated Code Documentation
 =================================
+Created March 2019
+
+@author: Fiorella Tenorio
+
 .. automodule:: hw1
 	:members:
 	:undoc-members:
